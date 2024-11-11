@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-11T08:27:06.768Z",
+  "created_by": "micahchoo",
+  "title": "File Test",
+  "slug": "file-test",
+  "updated_at": "2024-11-11T08:27:06.768Z",
+  "updated_by": "micahchoo",
+  "parent": "6c709c6d-5f0d-45fa-8c2c-0691c81bf4e7",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "a20ff935-8d2f-40c1-bd9e-ec676b72259f"
+  }
+}
